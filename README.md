@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeenat 
-- 👀 I’m always exploring and learning new things
+
 - 🌱 currently learning vue.js
 
 
